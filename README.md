@@ -1,4 +1,4 @@
-# Web Development Project 7 - Crewmate Creator
+# Project 7 - Crewmate Creator
 
 Submitted by: **Neel Mokaria**
 
